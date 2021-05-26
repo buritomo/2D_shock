@@ -1,0 +1,8 @@
+﻿  2D_shock.cpp
+  grid.cpp
+C:\Users\michimichi\source\repos\2D_shock\2D_shock\grid.cpp(7,26): warning C4244: '=': 'double' から 'volatile int' への変換です。データが失われる可能性があります。
+C:\Users\michimichi\source\repos\2D_shock\2D_shock\grid.cpp(8,26): warning C4244: '=': 'double' から 'volatile int' への変換です。データが失われる可能性があります。
+  output.cpp
+C:\Users\michimichi\source\repos\2D_shock\2D_shock\output.cpp(8,18): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  2D_shock.vcxproj -> C:\Users\michimichi\source\repos\2D_shock\Debug\2D_shock.exe

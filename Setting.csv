@@ -1,0 +1,6 @@
+dx,0.01
+dy,0.01
+dt,0.0001
+Gamma,1.4
+TimeLimit,0.1
+files,10
